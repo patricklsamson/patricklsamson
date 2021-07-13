@@ -13,9 +13,9 @@
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true" alt="github-stats" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true" alt="github-stats" style="max-width: 50%;" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact" alt="github-top-langs" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact" alt="github-top-langs" />
 </p>
 
 ---
