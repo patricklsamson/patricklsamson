@@ -3,7 +3,7 @@
 - 🚀 Aspiring Web Developer
 - 🌱 I’m currently learning Ruby on Rails at Avion School
 - 💬 Ask me about what I know in front end
-- 📫 How to reach me: [Email](patricklsamson@yahoo.com.ph) & [LinkedIn](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/)
+- 📫 How to reach me: Email(patricklsamson@yahoo.com.ph) & [LinkedIn](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/)
 - 👀 Check my works!
 
 1. [WIP: Portfolio](https://patricklsamson.github.io/) - [Open Source Code](https://github.com/patricklsamson/patricklsamson.github.io)
