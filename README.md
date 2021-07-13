@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi, I'm Patrick! 👋</h1>
+<h1 align="center">Hi, I'm Patrick! 👋</h1>
 
 - 🚀 Aspiring Web Developer
 - 🌱 I’m currently learning Ruby on Rails at Avion School
@@ -12,17 +12,17 @@
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true" alt="github-stats" style="max-width: 50%;" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true" alt="github-stats" width="50%" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact" alt="github-top-langs" />
 </p>
 
 ---
 
-### Front-End
+<h2 align="center">Front-End</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
@@ -31,9 +31,9 @@
 
 ---
 
-### Back-End
+<h2 align="center">Back-End</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
@@ -42,9 +42,9 @@
 
 ---
 
-### Frameworks
+<h2 align="center">Frameworks</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
@@ -55,9 +55,9 @@
 
 ---
 
-### Tools
+<h2 align="center">Tools</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
 </p>
