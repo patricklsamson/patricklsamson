@@ -6,7 +6,7 @@
 - 📫 How to reach me: [Email](patricklsamson@yahoo.com.ph) & [LinkedIn](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/)
 - 👀 Check my works!
 
-1. [Portfolio](https://patricklsamson.github.io/) - [Open Source Code](https://github.com/patricklsamson/patricklsamson.github.io)
+1. [WIP: Portfolio](https://patricklsamson.github.io/) - [Open Source Code](https://github.com/patricklsamson/patricklsamson.github.io)
 1. [Slnc Digital Works](https://slncdworks.github.io/) - [Open Source Code](https://github.com/patricklsamson/slncdworks.github.io)
 1. [Avion School Batch 8 Activities](https://patricklsamson.github.io/batch8-activities/) - [Open Source Code](https://github.com/patricklsamson/batch8-activities)
 
