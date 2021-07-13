@@ -1,19 +1,19 @@
-### Hi, I'm Patrick! 👋
+<h1 style="text-align: center;">Hi, I'm Patrick! 👋</h1>
 
+- 🚀 Aspiring Web Developer
 - 🌱 I’m currently learning Ruby on Rails at Avion School
 - 💬 Ask me about what I know in front end
 - 📫 How to reach me: [Email](patricklsamson@yahoo.com.ph) & [LinkedIn](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/)
+- 👀 Check my works!
 
-- 👀 Check this out!
-
-1. [Portfolio](https://patricklsamson.github.io/)
-1. [Avion School Batch 8 Activities](https://patricklsamson.github.io/batch8-activities/)
-1. [Slnc Digital Works (Sample Work)](https://slncdworks.github.io/)
+1. [Portfolio](https://patricklsamson.github.io/) - [Open Source Code](https://github.com/patricklsamson/patricklsamson.github.io)
+1. [Slnc Digital Works](https://slncdworks.github.io/) - [Open Source Code](https://github.com/patricklsamson/slncdworks.github.io)
+1. [Avion School Batch 8 Activities](https://patricklsamson.github.io/batch8-activities/) - [Open Source Code](https://github.com/patricklsamson/batch8-activities)
 
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true" alt="github-stats" style="float: left;" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact" alt="github-top-langs" />
 </p>
