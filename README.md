@@ -11,7 +11,7 @@
 
   <tr>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/-YAHOO!%20MAIL?style=for-the-badge&logoColor=blueviolet" alt="Yahoo mail badge" />
+      <img src="https://img.shields.io/badge/-YAHOO!%20MAIL-blueviolet?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo mail badge" />
     </td>
     <td valign="middle">
       patricklsamson@yahoo.com.ph
