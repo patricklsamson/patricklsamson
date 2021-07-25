@@ -10,8 +10,12 @@
   </tr>
 
   <tr>
-    <td>Yahoo! Mail</td>
-    <td>patricklsamson@yahoo.com.ph</td>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/-Yahoo!%20Mail-blueviolet" alt="Yahoo mail badge" />
+    </td>
+    <td valign="middle">
+      patricklsamson@yahoo.com.ph
+    </td>
   </tr>
 
   <tr>
