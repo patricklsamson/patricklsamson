@@ -3,13 +3,28 @@
 - 🚀 Aspiring Web Developer
 - 🌱 I’m currently learning Ruby on Rails at Avion School
 - 💬 Ask me about what I know in front end
-- 📫 How to reach me:\
-&nbsp;&nbsp;[Yahoo! Mail](patricklsamson@yahoo.com.ph)\
-&nbsp;&nbsp;[![Gmail logo with text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](patricklsamsonl@gmail.com)\
-&nbsp;&nbsp;[![Linkedin logo with text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/)\
-&nbsp;&nbsp;[![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)\
-&nbsp;&nbsp;[![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks)\
-&nbsp;&nbsp;&nbsp;&nbsp;- Secondary GitHub Account (Owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository)
+- 📫 How to reach me:
+<div style="display: flex;">
+
+  Yahoo! Mail (patricklsamson@yahoo.com.ph)
+
+  <br />
+
+  ![Gmail logo with text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (patricklsamsonl@gmail.com)
+
+  <br />
+
+  [![Linkedin logo with text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/)
+
+  <br />
+
+  [![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)
+
+  <br />
+
+  [![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks) - Secondary GitHub Account (Owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository)
+</div>
+
 - 👀 Check my works!
 
 1. [WIP: Portfolio](https://patricklsamson.github.io/) - [Open Source Code](https://github.com/patricklsamson/patricklsamson.github.io)
