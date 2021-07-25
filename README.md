@@ -4,16 +4,33 @@
 - 🌱 I’m currently learning Ruby on Rails at Avion School
 - 💬 Ask me about what I know in front end
 
-📫 How to reach me:
-
 <table>
   <tr>
-    <td>Yahoo! Mail (patricklsamson@yahoo.com.ph)</td>
+    <th colspan="2">📫 How to reach me:</th>
+  </tr>
+
+  <tr>
+    <td>Yahoo! Mail</td>
+    <td>patricklsamson@yahoo.com.ph</td>
   </tr>
 
   <tr>
     <td valign="middle">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo with text" /> (patricklsamsonl@gmail.com)
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo with text" /> 
+    </td>
+    <td valign="middle">
+      patricklsamsonl@gmail.com
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/slncdworks">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo with text" />
+      </a>
+    </td>
+    <td valign="middle">
+      Secondary GitHub Account (Owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository)
     </td>
   </tr>
 
@@ -23,22 +40,10 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo with text" />
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td valign="middle">
       <a href="https://stackoverflow.com/users/15469676/patrick-samson">
         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow logo with text" />
       </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="middle">
-      <a href="https://github.com/slncdworks">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo with text" />
-      </a>
-      - Secondary GitHub Account (Owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository)
     </td>
   </tr>
 </table>
