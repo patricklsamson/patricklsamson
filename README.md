@@ -50,7 +50,9 @@
   </tr>
 </table>
 
-👀 Check my works!
+---
+
+## 👀 Check my works!
 
 1. [WIP: Portfolio](https://patricklsamson.github.io/) - [Open Source Code](https://github.com/patricklsamson/patricklsamson.github.io)
 1. [Slnc Digital Works](https://slncdworks.github.io/) - [Open Source Code](https://github.com/patricklsamson/slncdworks.github.io)
