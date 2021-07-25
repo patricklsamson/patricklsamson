@@ -3,7 +3,12 @@
 - 🚀 Aspiring Web Developer
 - 🌱 I’m currently learning Ruby on Rails at Avion School
 - 💬 Ask me about what I know in front end
-- 📫 How to reach me: Email (patricklsamson@yahoo.com.ph) & [LinkedIn](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/)
+- 📫 How to reach me:
+  - Yahoo! Mail (patricklsamson@yahoo.com.ph)
+  - ![Gmail logo with text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) (patricklsamsonl@gmail.com)
+  - [![Linkedin logo with text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/)
+  - [![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)
+  - [![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks) - Secondary GitHub Account (Owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository)
 - 👀 Check my works!
 
 1. [WIP: Portfolio](https://patricklsamson.github.io/) - [Open Source Code](https://github.com/patricklsamson/patricklsamson.github.io)
@@ -53,6 +58,7 @@
 
 ![Sublime text logo with text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual studio code logo with text](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Powershell logo with text](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Ubuntu logo with text](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <!--
