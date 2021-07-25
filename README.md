@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Ruby on Rails at Avion School
 - 💬 Ask me about what I know in front end
 - 📫 How to reach me:\
-&nbsp;&nbsp;Yahoo! Mail (patricklsamson@yahoo.com.ph)\
+&nbsp;&nbsp;[Yahoo! Mail](patricklsamson@yahoo.com.ph)\
 &nbsp;&nbsp;[![Gmail logo with text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](patricklsamsonl@gmail.com)\
 &nbsp;&nbsp;[![Linkedin logo with text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/)\
 &nbsp;&nbsp;[![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)\
