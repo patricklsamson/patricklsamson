@@ -35,12 +35,14 @@
   </tr>
 
   <tr>
-    <td valign="middle">
+    <td colspan="2" valign="middle">
       <a href="https://www.linkedin.com/in/patrick-edward-samson-8a233917a/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo with text" />
       </a>
     </td>
-    <td valign="middle">
+  </tr>
+  <tr>
+    <td colspan="2" valign="middle">
       <a href="https://stackoverflow.com/users/15469676/patrick-samson">
         <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow logo with text" />
       </a>
