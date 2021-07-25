@@ -3,19 +3,47 @@
 - 🚀 Aspiring Web Developer
 - 🌱 I’m currently learning Ruby on Rails at Avion School
 - 💬 Ask me about what I know in front end
-- 📫 How to reach me:
 
-&nbsp;Yahoo! Mail (patricklsamson@yahoo.com.ph)
+📫 How to reach me:
 
-&nbsp;![Gmail logo with text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <span style="vertical-align: middle;">(patricklsamsonl@gmail.com)</span>
+<table>
+  <tr>
+    <td>Yahoo! Mail (patricklsamson@yahoo.com.ph)</td>
+  </tr>
 
-&nbsp;[![Linkedin logo with text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/)
+  <tr>
+    <td valign="middle">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo with text" /> (patricklsamsonl@gmail.com)
+    </td>
+  </tr>
 
-&nbsp;[![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)
+  <tr>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/patrick-edward-samson-8a233917a/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo with text" />
+      </a>
+    </td>
+  </tr>
 
-&nbsp;[![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks) - Secondary GitHub Account (Owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository)
+  <tr>
+    <td valign="middle">
+      <a href="https://stackoverflow.com/users/15469676/patrick-samson">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow logo with text" />
+      </a>
+    </td>
+  </tr>
 
-- 👀 Check my works!
+  <tr>
+    <td valign="middle">
+      <a href="https://github.com/slncdworks">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo with text" />
+      </a>
+      - Secondary GitHub Account (Owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository)
+    </td>
+  </tr>
+</table>
+
+👀 Check my works!
 
 1. [WIP: Portfolio](https://patricklsamson.github.io/) - [Open Source Code](https://github.com/patricklsamson/patricklsamson.github.io)
 1. [Slnc Digital Works](https://slncdworks.github.io/) - [Open Source Code](https://github.com/patricklsamson/slncdworks.github.io)
