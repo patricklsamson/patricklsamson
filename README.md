@@ -104,11 +104,12 @@
 
 ## Tools
 
+![Command prompt with windows terminal logo and text](https://img.shields.io/badge/Command_Prompt-black?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Sublime text logo with text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual studio code logo with text](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Windows terminal logo with text](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![Powershell logo with text](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Ubuntu logo with text](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Powershell logo with text](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
+![Windows terminal logo with text](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 <!--
 **patricklsamson/patricklsamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
