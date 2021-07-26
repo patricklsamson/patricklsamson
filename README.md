@@ -3,6 +3,7 @@
 - 🚀 Aspiring Web Developer
 - 🌱 I’m currently learning Ruby on Rails at Avion School
 - 💬 Ask me about what I know in front end
+- ⚡ Fun fact: Started learning ![HTML with logo and text](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) out of boredom in front of my computer and a computer book from school during childhood.
 
 <table>
   <tr>
