@@ -71,24 +71,30 @@
 
 ---
 
-## Languages
+## ✒ Languages
 
 ![HTML5 logo with text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 logo with text](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown logo with text](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## Scripting Languages
+---
+
+## 📜 Scripting Languages
 
 ![SASS logo with text](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Javascript logo with text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP logo with text](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby logo with text](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-## Database
+---
+
+## 📚 Database
 
 ![Postgresql logo with text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Frameworks
+---
+
+## 🖼 Frameworks
 
 ![Bootstrap logo with text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jquery logo with text](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -98,7 +104,7 @@
 
 ---
 
-## Tools
+## 🔧 Tools
 
 ![Command prompt with windows terminal logo and text](https://img.shields.io/badge/Command_Prompt-black?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![Sublime text logo with text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
@@ -110,7 +116,7 @@
 
 ---
 
-## Package Manager
+## 📦 Package Manager
 
 ![Rubygems logo with text](https://img.shields.io/badge/RubyGems-E9573F?style=for-the-badge&logo=rubygems&logoColor=white)
 ![NPM logo with text](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
