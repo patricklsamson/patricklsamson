@@ -3,7 +3,7 @@
 - 🚀 Aspiring Web Developer
 - 🌱 I’m currently learning Ruby on Rails at Avion School
 - 💬 Ask me about what I know in front end
-- ⚡ Fun fact: Started learning HTML out of boredom in front of my computer and a computer book from school during childhood.
+- ⚡ Fun fact: Started learning about HTML out of boredom in front of my computer and a computer book from school during childhood. Marquees are fun!
 
 <table>
   <tr>
