@@ -7,7 +7,7 @@
 
 | 📫 How to reach me: |
 | :---: | --- |
-| ![Yahoo mail logo with text] | patricklsamson@yahoo.com.ph |
+| ![Yahoo mail logo with text](https://img.shields.io/badge/Yahoo!_Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white) | patricklsamson@yahoo.com.ph |
 
 <!-- <table>
   <tr>
