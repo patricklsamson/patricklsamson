@@ -5,7 +5,7 @@
 - 💬 Ask me about what I know in front end
 - ⚡ Fun fact: Started learning about HTML out of boredom in front of my computer and a computer book from school during childhood. Marquees are fun!
 
-| 📫 How to reach me: ||
+| 📫 How to reach me: | Details |
 | :---: | --- |
 | ![Yahoo mail logo with text](https://img.shields.io/badge/Yahoo!_Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white) | patricklsamson@yahoo.com.ph |
 | ![Gmail logo with text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | patricklsamsonl@gmail.com |
