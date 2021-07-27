@@ -123,6 +123,13 @@
 ![NPM logo with text](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn logo with text](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
+---
+
+## 🎨 Design Tools
+
+![Adobe photoshop logo with text](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Adobe xd logo with text](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+
 <!--
 **patricklsamson/patricklsamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
