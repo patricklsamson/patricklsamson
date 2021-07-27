@@ -5,13 +5,17 @@
 - 💬 Ask me about what I know in front end
 - ⚡ Fun fact: Started learning about HTML out of boredom in front of my computer and a computer book from school during childhood. Marquees are fun!
 
-<table>
+| 📫 How to reach me: |
+| :---: | --- |
+| ![Yahoo mail logo with text] | patricklsamson@yahoo.com.ph |
+
+<!-- <table>
   <tr>
     <th colspan="2">📫 How to reach me:</th>
   </tr>
 
   <tr>
-    <td valign="middle">
+    <td valign="middle" align="center">
       <img src="https://img.shields.io/badge/Yahoo!_Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo mail logo with text" />
     </td>
     <td valign="middle">
@@ -20,7 +24,7 @@
   </tr>
 
   <tr>
-    <td valign="middle">
+    <td valign="middle" align="center">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo with text" /> 
     </td>
     <td valign="middle">
@@ -29,7 +33,7 @@
   </tr>
 
   <tr>
-    <td valign="middle">
+    <td valign="middle" align="center">
       <a href="https://github.com/slncdworks">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo with text" />
       </a>
@@ -54,7 +58,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
