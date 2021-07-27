@@ -5,60 +5,13 @@
 - 💬 Ask me about what I know in front end
 - ⚡ Fun fact: Started learning about HTML out of boredom in front of my computer and a computer book from school during childhood. Marquees are fun!
 
-| 📫 How to reach me: |
+| 📫 How to reach me: ||
 | :---: | --- |
 | ![Yahoo mail logo with text](https://img.shields.io/badge/Yahoo!_Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white) | patricklsamson@yahoo.com.ph |
-
-<!-- <table>
-  <tr>
-    <th colspan="2">📫 How to reach me:</th>
-  </tr>
-
-  <tr>
-    <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/Yahoo!_Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo mail logo with text" />
-    </td>
-    <td valign="middle">
-      patricklsamson@yahoo.com.ph
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo with text" /> 
-    </td>
-    <td valign="middle">
-      patricklsamsonl@gmail.com
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="middle" align="center">
-      <a href="https://github.com/slncdworks">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo with text" />
-      </a>
-    </td>
-    <td valign="middle">
-      Secondary GitHub Account (Owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository)
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" valign="middle" align="center">
-      <a href="https://www.linkedin.com/in/patrick-edward-samson-8a233917a/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo with text" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" valign="middle" align="center">
-      <a href="https://stackoverflow.com/users/15469676/patrick-samson">
-        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow logo with text" />
-      </a>
-    </td>
-  </tr>
-</table> -->
+| ![Gmail logo with text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | patricklsamsonl@gmail.com |
+| ![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) | Secondary GitHub Account (Owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository) |
+| [![Linkedin logo with text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-edward-samson-8a233917a/) ||
+| [![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson) ||
 
 ---
 
