@@ -15,7 +15,7 @@
 
 ---
 
-## 👀 Check my works
+## 👀 Check My Works
 
 | [![patricklsamson.github.io repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=patricklsamson.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/patricklsamson.github.io) [WIP: GitHub Page](https://patricklsamson.github.io/) | [![slncdworks.github.io repository with description](https://github-readme-stats.vercel.app/api/pin?username=slncdworks&repo=slncdworks.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/slncdworks/slncdworks.github.io) [GitHub Page](https://slncdworks.github.io/) |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
