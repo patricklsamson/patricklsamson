@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 # Hi, I'm Patrick! 👋
 
-- 🚀 Aspiring Web Developer
-- 🌱 I’m currently learning Ruby on Rails at Avion School
+- 🌐 Web Developer
+- 🌱 I’m open to learn anything about programming
 - 💬 Ask me about what I know in front end
+- 😄 Pronouns: he / him / his
 - ⚡ Fun fact: Started learning about HTML out of boredom in front of my computer and a computer book from school during childhood. Marquees are fun!
 
 📫 How to reach me: patricklsamson@yahoo.com.ph / patricklsamsonl@gmail.com
