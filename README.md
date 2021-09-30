@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 # Hi, I'm Patrick! 👋
 
-- 🌐 Web Developer
-- 🌱 I’m open to learn anything about programming
+- 🚀 Aspiring Web Developer <!-- 🌐 Web Developer -->
+- 🌱 I’m currently learning Ruby on Rails at Avion School <!-- I’m open to learn anything about programming -->
 - 💬 Ask me about what I know in front end
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: Started learning about HTML out of boredom in front of my computer and a computer book from school during childhood. Marquees are fun!
