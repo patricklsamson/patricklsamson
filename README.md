@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [![Linkedin logo with text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklsamson/)
 [![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)
 [![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks)
+
 patricklsamson@yahoo.com.ph / patricklsamsonl@gmail.com
 
 Note: My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository
