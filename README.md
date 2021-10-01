@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 # Hi, I'm Patrick! 👋
 
-- 🚀 Aspiring Web Developer <!-- 🌐 Web Developer -->
 - 🌱 I’m currently learning Ruby on Rails at Avion School <!-- I’m open to learn anything about programming -->
 - 💬 Ask me about what I know in front end
 - 😄 Pronouns: he / him / his
