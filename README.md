@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Gray inverted wave](https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/inverted-wave.png)
+<img id="home" src="https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/inverted-wave.png" alt="Gray inverted wave" />
 
 # Hi, I'm Patrick! 👋
 
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Bootstrap logo with text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jquery logo with text](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![XAMPP logo with text](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![Git logo with text](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Ruby on rails logo with text](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) | ![NPM logo with text](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Yarn logo with text](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![Rubygems logo with text](https://img.shields.io/badge/RubyGems-E9573F?style=for-the-badge&logo=rubygems&logoColor=white) |
 
-<p align="center"><< { ^^^ | <a href="#hi-im-patrick-">BACK TO HOME</a> | ^^^ } >></p>
+<p align="center"><< { ^^^ | <a href="#home">BACK TO HOME</a> | ^^^ } >></p>
 
 </details>
 
