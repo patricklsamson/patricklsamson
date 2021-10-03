@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<div id="home"></div>
-
----
+<div id="home">
+  <br />
+  <br />
+</div>
 
 # Hi, I'm Patrick! 👋
 
@@ -34,12 +35,12 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 [👀 Check My Works](#works) | [👫 Check My Collaborations](#collabs) | [📈 Stats](#stats) | [⚙ Technical Skills](#skills)
 
----
-
 <div id="works">
   <br />
   <br />
 </div>
+
+---
 
 ## 👀 Check My Works
 
@@ -50,8 +51,6 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 [Back to Home](#home)
 
----
-
 <div id="collabs">
   <br />
   <br />
@@ -59,18 +58,20 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 ## 👫 Check My Collaborations
 
+---
+
 | [![rails-final-project pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=rails-final-project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/rails-final-project) Heroku App | [![stock market app pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=stock-market-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/stock-market-app) [Heroku App](https://bon-patrick-stock-market.herokuapp.com/) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                   [![journal-2 pair repository](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=journal-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/paopapaopao/journal-2)                    |                                                                                                                                                                                                                                                                                                                 |
 
 [Back to Home](#home)
 
----
-
 <div id="stats">
   <br />
   <br />
 </div>
+
+---
 
 ## 📈 Stats
 
@@ -79,12 +80,12 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 [Back to Home](#home)
 
----
-
 <div id="skills">
   <br />
   <br />
 </div>
+
+---
 
 ## ⚙ Technical Skills
 
