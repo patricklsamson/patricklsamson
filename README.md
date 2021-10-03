@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">🗺&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#-stats"><strong>STATS</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#-technical-skills"><strong>TECHNICAL SKILLS</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#repositories"><strong>REPOSITORIES</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;🗺</p>
+<p align="center">🗺&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#-stats"><strong>STATS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#-technical-skills"><strong>TECHNICAL SKILLS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#repositories"><strong>REPOSITORIES</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;🗺</p>
 
 ---
 
