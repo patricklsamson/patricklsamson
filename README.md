@@ -24,11 +24,17 @@ Here are some ideas to get you started:
 
 **Check out my [_portfolio site_](https://patricklsamson.github.io/) too and how I made it [_here_](https://github.com/patricklsamson/patricklsamson.github.io)!**
 
-📫 How to reach me: patricklsamson@yahoo.com.ph / patricklsamsonl@gmail.com
+---
 
-[![Linkedin logo with text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricklsamson/)
-[![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks)
-[![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)
+<div align="center">
+  <p>📫 How to reach me:</p>
+  <p>patricklsamson@yahoo.com.ph / patricklsamsonl@gmail.com</p>
+  <p>
+    <a href="https://www.linkedin.com/in/patricklsamson/"><img src="https://img.shields.io/badge/*-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo" /></a>
+    <a href="https://github.com/slncdworks"><img src="https://img.shields.io/badge/*-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" /></a>
+    <a href="https://stackoverflow.com/users/15469676/patrick-samson"><img src="https://img.shields.io/badge/*-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow logo" /></a>
+  </p>
+</div>
 
 ---
 
