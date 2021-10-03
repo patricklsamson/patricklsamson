@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 **Note:** My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and [slncdworks.github.io repository](https://github.com/slncdworks/slncdworks.github.io)
 
+<br />
 <hr id="projects" />
 <br />
 
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 
 ^^^ | [**BACK TO HOME**](#home) | ^^^
 
+<br />
 <hr id="stats" />
 <br />
 
@@ -59,6 +61,7 @@ Here are some ideas to get you started:
 
 ^^^ | [**BACK TO HOME**](#home) | ^^^
 
+<br />
 <hr id="technical-skills" />
 <br />
 
