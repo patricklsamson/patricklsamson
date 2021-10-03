@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-🗺&nbsp;&nbsp;|&nbsp;&nbsp;[**STATS**](#-stats)&nbsp;&nbsp;|&nbsp;&nbsp;[**TECHNICAL SKILLS**](#-technical-skills)&nbsp;&nbsp;|&nbsp;&nbsp;🗺
+🗺&nbsp;&nbsp;|&nbsp;&nbsp;[**STATS**](#-stats)&nbsp;&nbsp;|&nbsp;&nbsp;[**LANGUAGES & DB**](#-languages--database)&nbsp;&nbsp;|&nbsp;&nbsp;[**TOOLS**](#-tools--cloud)&nbsp;&nbsp;|&nbsp;&nbsp;[**FRAMEWORKS & PACKAGE MGR**](#-frameworks--package-manager)&nbsp;&nbsp;|&nbsp;&nbsp;🗺
 
 ---
 
