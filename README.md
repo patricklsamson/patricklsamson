@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks)
 [![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)
 
-**Check out my [portfolio site](https://patricklsamson.github.io/) too and how I made it [here](https://github.com/patricklsamson/patricklsamson.github.io)!**
+**Check out my [*portfolio site*](https://patricklsamson.github.io/) too and how I made it [*here*](https://github.com/patricklsamson/patricklsamson.github.io)!**
 
 **Note:** My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and [slncdworks.github.io repository](https://github.com/slncdworks/slncdworks.github.io)
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## 👀 Projects
 
-**Click [here](https://github.com/patricklsamson?tab=repositories) apart from what's below to see more!**
+**Click [*here*](https://github.com/patricklsamson?tab=repositories) apart from what's below to see more!**
 
 | [![batch8-activities repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=batch8-activities&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/batch8-activities) [GitHub Page](https://patricklsamson.github.io/batch8-activities/) |            [![rails-final-project pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=rails-final-project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/rails-final-project) Heroku App             |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
