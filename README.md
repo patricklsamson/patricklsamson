@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 ![Github stats of Patrick Samson](https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true)
 ![Most used languages of Patrick Samson](https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact)
 
+<p align="center"><< { ^^^ | <a href="#home">BACK TO HOME</a> | ^^^ } >></p>
+
 ---
 
 ## ⚙ Technical Skills
