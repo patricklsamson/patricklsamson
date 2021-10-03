@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <div id="home">
   <br />
-  <br />
 </div>
 
 ---
@@ -41,7 +40,6 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 <div id="works">
   <br />
-  <br />
 </div>
 
 ---
@@ -59,7 +57,6 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 <div id="collabs">
   <br />
-  <br />
 </div>
 
 ---
@@ -76,7 +73,6 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 <div id="stats">
   <br />
-  <br />
 </div>
 
 ---
@@ -91,7 +87,6 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 ---
 
 <div id="skills">
-  <br />
   <br />
 </div>
 
