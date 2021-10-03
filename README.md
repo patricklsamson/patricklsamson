@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 **Check out my [portfolio site](https://patricklsamson.github.io/) too!**
 
+Note: My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository
+
 ---
 
 ## 👀 Projects
