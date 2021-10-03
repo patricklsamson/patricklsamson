@@ -35,19 +35,9 @@ Here are some ideas to get you started:
 
 ---
 
-## 🗺 Navigate Around!
-
-| . 👀 . [**PROJECTS**](#projects) . 👀 . | . 📈 . [**STATS**](#stats) . 📈 | . ⚙ . [**SKILLS**](#skills) . ⚙ . |
-
-<div id="projects">
-  <br />
-</div>
-
----
-
 ## 👀 Check My Projects
 
-Click [here](https://github.com/patricklsamson?tab=repositories) to see more!
+**Click [here](https://github.com/patricklsamson?tab=repositories) apart from what's below to see more!**
 
 | [![batch8-activities repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=batch8-activities&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/batch8-activities) [GitHub Page](https://patricklsamson.github.io/batch8-activities/) |            [![rails-final-project pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=rails-final-project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/rails-final-project) Heroku App             |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -55,10 +45,6 @@ Click [here](https://github.com/patricklsamson?tab=repositories) to see more!
 |                   [![journal repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=journal&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/journal) [Heroku App](https://patricklsamson-journal.herokuapp.com/)                    | [![blog repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=blog&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/blog) [Heroku App](https://patricklsamson-blog.herokuapp.com/) |
 
 ^^^ | [**BACK TO HOME**](#home) | ^^^
-
-<div id="stats">
-  <br />
-</div>
 
 ---
 
@@ -68,10 +54,6 @@ Click [here](https://github.com/patricklsamson?tab=repositories) to see more!
 ![Most used languages of Patrick Samson](https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact)
 
 ^^^ | [**BACK TO HOME**](#home) | ^^^
-
-<div id="skills">
-  <br />
-</div>
 
 ---
 
