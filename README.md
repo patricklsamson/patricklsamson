@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<div id="home">
-  <br />
-</div>
+<div id="home"></div>
 
 ---
 
@@ -38,9 +36,7 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 ---
 
-<div id="works">
-  <br />
-</div>
+<div id="works"></div>
 
 ---
 
@@ -55,9 +51,7 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 ---
 
-<div id="collabs">
-  <br />
-</div>
+<div id="collabs"></div>
 
 ---
 
@@ -71,9 +65,7 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 ---
 
-<div id="stats">
-  <br />
-</div>
+<div id="stats"></div>
 
 ---
 
@@ -86,9 +78,7 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 ---
 
-<div id="skills">
-  <br />
-</div>
+<div id="skills"></div>
 
 ---
 
