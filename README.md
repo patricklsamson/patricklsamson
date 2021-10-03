@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks)
 [![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)
 
-Check out my [portfolio](https://patricklsamson.github.io/) aside what's below to know more about me!
+Check out my [portfolio](https://patricklsamson.github.io/) apart from what's below to know more about me!
 
 ---
 
