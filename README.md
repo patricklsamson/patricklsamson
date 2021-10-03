@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 👀 Check My Projects
+## 👀 Projects
 
 **Click [here](https://github.com/patricklsamson?tab=repositories) apart from what's below to see more!**
 
