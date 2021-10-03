@@ -12,16 +12,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-<svg id="home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6c757d" fill-opacity="1" d="M0,192L60,208C120,224,240,256,360,250.7C480,245,600,203,720,208C840,213,960,267,1080,282.7C1200,299,1320,277,1380,266.7L1440,256L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
 
 # Hi, I'm Patrick! 👋
-
-🗺&nbsp;&nbsp;&nbsp;[ [**HOME**](#home) ]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[ [**PROJECTS**](#projects) ]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[ [**STATS**](#stats) ]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[ [**TECHNICAL SKILLS**](#technical-skills) ]&nbsp;&nbsp;&nbsp;🗺
 
 - 🌱 I’m currently learning Ruby on Rails at Avion School <!-- I’m open to learn anything about programming -->
 - 💬 Ask me about what I know in front end
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: Started learning about HTML out of boredom during childhood. Marquees are fun!
+
+**Check out my [_portfolio site_](https://patricklsamson.github.io/) too and how I made it [_here_](https://github.com/patricklsamson/patricklsamson.github.io)!**
 
 📫 How to reach me: patricklsamson@yahoo.com.ph / patricklsamsonl@gmail.com
 
@@ -29,35 +28,17 @@ Here are some ideas to get you started:
 [![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks)
 [![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)
 
-**Check out my [*portfolio site*](https://patricklsamson.github.io/) too and how I made it [*here*](https://github.com/patricklsamson/patricklsamson.github.io)!**
+---
 
-**Note:** My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and [slncdworks.github.io repository](https://github.com/slncdworks/slncdworks.github.io)
+<details>
+  <summary>👀 Wanna see some more?</summary>
 
-<svg id="projects" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6c757d" fill-opacity="1" d="M0,192L60,208C120,224,240,256,360,250.7C480,245,600,203,720,208C840,213,960,267,1080,282.7C1200,299,1320,277,1380,266.7L1440,256L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
-
-## 👀 Projects
-
-**Click [*here*](https://github.com/patricklsamson?tab=repositories) apart from what's below to see more!**
-
-| [![batch8-activities repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=batch8-activities&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/batch8-activities) [GitHub Page](https://patricklsamson.github.io/batch8-activities/) |            [![rails-final-project pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=rails-final-project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/rails-final-project) Heroku App             |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                [![stock market app pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=stock-market-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/stock-market-app) [Heroku App](https://bon-patrick-stock-market.herokuapp.com/)                |                               [![journal-2 pair repository](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=journal-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/paopapaopao/journal-2)                               |
-|                   [![journal repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=journal&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/journal) [Heroku App](https://patricklsamson-journal.herokuapp.com/)                    | [![blog repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=blog&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/blog) [Heroku App](https://patricklsamson-blog.herokuapp.com/) |
-
-^^^ | [**BACK TO HOME**](#home) | ^^^
-
-<svg id="stats" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6c757d" fill-opacity="1" d="M0,192L60,208C120,224,240,256,360,250.7C480,245,600,203,720,208C840,213,960,267,1080,282.7C1200,299,1320,277,1380,266.7L1440,256L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
-
-## 📈 Stats
+## 📈 Stats & Skills ⚙
 
 ![Github stats of Patrick Samson](https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true)
 ![Most used languages of Patrick Samson](https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact)
 
-^^^ | [**BACK TO HOME**](#home) | ^^^
-
-<svg id="technical-skills" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6c757d" fill-opacity="1" d="M0,192L60,208C120,224,240,256,360,250.7C480,245,600,203,720,208C840,213,960,267,1080,282.7C1200,299,1320,277,1380,266.7L1440,256L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
-
-## ⚙ Technical Skills
+---
 
 |                                                                                                                                                                         ✒ Languages                                                                                                                                                                         |                                                                                                                                                                                                                           📜 Scripting Languages                                                                                                                                                                                                                           |                                                           📚 Database                                                            |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
@@ -75,4 +56,4 @@ Here are some ideas to get you started:
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Bootstrap logo with text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jquery logo with text](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![XAMPP logo with text](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![Git logo with text](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Ruby on rails logo with text](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) | ![NPM logo with text](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Yarn logo with text](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![Rubygems logo with text](https://img.shields.io/badge/RubyGems-E9573F?style=for-the-badge&logo=rubygems&logoColor=white) |
 
-^^^ | [**BACK TO HOME**](#home) | ^^^
+</details>
