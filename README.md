@@ -31,40 +31,28 @@ Here are some ideas to get you started:
 [![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks)
 [![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)
 
-Note: My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository
+Check out my [portfolio](https://patricklsamson.github.io/) aside what's below to know more about me!
 
 ---
 
 ## 🗺 Navigate Around!
 
-| . 👀 . [**WORKS**](#works) . 👀 . | . 👫 . [**COLLABORATIONS**](#collabs) . 👫 | . 📈 . [**STATS**](#stats) . 📈 | . ⚙ . [**SKILLS**](#skills) . ⚙ . |
+| . 👀 . [**PROJECTS**](#projects) . 👀 . | . 📈 . [**STATS**](#stats) . 📈 | . ⚙ . [**SKILLS**](#skills) . ⚙ . |
 
-<div id="works">
+<div id="projects">
   <br />
 </div>
 
 ---
 
-## 👀 Check My Works
+## 👀 Check My Projects
 
-| [![patricklsamson.github.io repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=patricklsamson.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/patricklsamson.github.io) [GitHub Page](https://patricklsamson.github.io/) | [![batch8-activities repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=batch8-activities&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/batch8-activities) [GitHub Page](https://patricklsamson.github.io/batch8-activities/) |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                     [![journal repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=journal&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/journal) [Heroku App](https://patricklsamson-journal.herokuapp.com/)                     |                         [![blog repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=blog&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/blog) [Heroku App](https://patricklsamson-blog.herokuapp.com/)                          |
-|             [![slncdworks.github.io repository with description](https://github-readme-stats.vercel.app/api/pin?username=slncdworks&repo=slncdworks.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/slncdworks/slncdworks.github.io) [GitHub Page](https://slncdworks.github.io/)             |                                                                                                                                                                                                                                                                                                                                               |
+Click [here](https://github.com/patricklsamson?tab=repositories) to see more!
 
-^^^ | [**BACK TO HOME**](#home) | ^^^
-
-<div id="collabs">
-  <br />
-</div>
-
----
-
-## 👫 Check My Collaborations
-
-| [![rails-final-project pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=rails-final-project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/rails-final-project) Heroku App | [![stock market app pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=stock-market-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/stock-market-app) [Heroku App](https://bon-patrick-stock-market.herokuapp.com/) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                   [![journal-2 pair repository](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=journal-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/paopapaopao/journal-2)                    |                                                                                                                                                                                                                                                                                                                 |
+| [![batch8-activities repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=batch8-activities&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/batch8-activities) [GitHub Page](https://patricklsamson.github.io/batch8-activities/) |            [![rails-final-project pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=rails-final-project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/rails-final-project) Heroku App             |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                [![stock market app pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=stock-market-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/stock-market-app) [Heroku App](https://bon-patrick-stock-market.herokuapp.com/)                |                               [![journal-2 pair repository](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=journal-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/paopapaopao/journal-2)                               |
+|                   [![journal repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=journal&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/journal) [Heroku App](https://patricklsamson-journal.herokuapp.com/)                    | [![blog repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=blog&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/blog) [Heroku App](https://patricklsamson-blog.herokuapp.com/) |
 
 ^^^ | [**BACK TO HOME**](#home) | ^^^
 
