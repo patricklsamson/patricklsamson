@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-🗺&nbsp;&nbsp;|&nbsp;&nbsp;[**STATS**](#-stats)&nbsp;&nbsp;|&nbsp;&nbsp;[**TECHNICAL SKILLS**](#-technical-skills)&nbsp;&nbsp;|&nbsp;&nbsp;🗺
+🗺&nbsp;&nbsp;|&nbsp;&nbsp;[**STATS**](#-stats)&nbsp;&nbsp;|&nbsp;&nbsp;[**TECHNICAL SKILLS**](#-technical-skills)&nbsp;&nbsp;|&nbsp;&nbsp;[**REPOSITORIES**](#repositories)&nbsp;&nbsp;|&nbsp;&nbsp;🗺
 
 ---
 
@@ -73,3 +73,5 @@ Here are some ideas to get you started:
 </details>
 
 ![Gray bottom wave](https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/bottom-wave.png)
+
+<div id="repositories"></div>
