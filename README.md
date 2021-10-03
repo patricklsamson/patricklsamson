@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>👀 Wanna see some more?</summary>
+  <summary align="center">👀 <strong>Wanna see some more?</strong></summary>
 
 ---
 
