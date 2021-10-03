@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 [![Github logo with text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/slncdworks)
 [![Stack overflow logo with text](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15469676/patrick-samson)
 
-**Check out my [portfolio site](https://patricklsamson.github.io/) too!**
+**Check out my [portfolio site](https://patricklsamson.github.io/) too and how I made it [here](https://github.com/patricklsamson/patricklsamson.github.io)!**
 
-Note: My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and [slncdworks.github.io](https://github.com/slncdworks/slncdworks.github.io) repository
+**Note:** My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and [slncdworks.github.io repository](https://github.com/slncdworks/slncdworks.github.io)
 
 ---
 
