@@ -54,9 +54,9 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
   <br />
 </div>
 
-## 👫 Check My Collaborations
-
 ---
+
+## 👫 Check My Collaborations
 
 | [![rails-final-project pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=rails-final-project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/rails-final-project) Heroku App | [![stock market app pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=stock-market-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/stock-market-app) [Heroku App](https://bon-patrick-stock-market.herokuapp.com/) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
