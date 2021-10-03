@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: Started learning about HTML out of boredom during childhood. Marquees are fun!
 
-<p align="center"><strong>Check out my <em><a href="https://patricklsamson.github.io/" target="_blank" rel="noopener">portfolio site</a></em> too!</strong></p>
+<p align="center"><strong>Check out my <em><a href="https://patricklsamson.github.io/">portfolio site</a></em> too!</strong></p>
 
 ---
 
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
   <p>patricklsamson@yahoo.com.ph / patricklsamsonl@gmail.com</p>
 
   <p>
-    <a href="https://www.linkedin.com/in/patricklsamson/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/*-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo" /></a>
-    <a href="https://github.com/slncdworks" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/*-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" /></a>
-    <a href="https://stackoverflow.com/users/15469676/patrick-samson" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/*-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow logo" /></a>
+    <a href="https://www.linkedin.com/in/patricklsamson/"><img src="https://img.shields.io/badge/*-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo" /></a>
+    <a href="https://github.com/slncdworks"><img src="https://img.shields.io/badge/*-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" /></a>
+    <a href="https://stackoverflow.com/users/15469676/patrick-samson"><img src="https://img.shields.io/badge/*-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow logo" /></a>
   </p>
 </div>
 
