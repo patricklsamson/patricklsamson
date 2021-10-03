@@ -36,9 +36,10 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 ---
 
-<div id="works"></div>
-
----
+<div id="works">
+  <br />
+  <br />
+</div>
 
 ## 👀 Check My Works
 
@@ -51,9 +52,10 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 ---
 
-<div id="collabs"></div>
-
----
+<div id="collabs">
+  <br />
+  <br />
+</div>
 
 ## 👫 Check My Collaborations
 
@@ -65,9 +67,10 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 ---
 
-<div id="stats"></div>
-
----
+<div id="stats">
+  <br />
+  <br />
+</div>
 
 ## 📈 Stats
 
@@ -78,9 +81,10 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 ---
 
-<div id="skills"></div>
-
----
+<div id="skills">
+  <br />
+  <br />
+</div>
 
 ## ⚙ Technical Skills
 
