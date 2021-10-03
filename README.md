@@ -37,14 +37,20 @@ Here are some ideas to get you started:
 
 ---
 
+🗺&nbsp;&nbsp;|&nbsp;&nbsp;[**STATS**](#-stats)&nbsp;&nbsp;|&nbsp;&nbsp;[**TECHNICAL SKILLS**](#-technical-skills)&nbsp;&nbsp;|&nbsp;&nbsp;🗺
+
+---
+
 ![Gray inverted wave](https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/inverted-wave-2.png)
 
-## 📈 Stats & Skills ⚙
+## 📈 Stats
 
 ![Github stats of Patrick Samson](https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true)
 ![Most used languages of Patrick Samson](https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact)
 
 ---
+
+## ⚙ Technical Skills
 
 |                                                                                                                                                                         ✒ Languages                                                                                                                                                                         |                                                                                                                                                                                                                           📜 Scripting Languages                                                                                                                                                                                                                           |                                                           📚 Database                                                            |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
