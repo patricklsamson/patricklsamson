@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-🗺&nbsp;&nbsp;|&nbsp;&nbsp;[**STATS**](#-stats)&nbsp;&nbsp;|&nbsp;&nbsp;[**TECHNICAL SKILLS**](#-technical-skills)&nbsp;&nbsp;|&nbsp;&nbsp;[**REPOSITORIES**](#repositories)&nbsp;&nbsp;|&nbsp;&nbsp;🗺
+<p align="center">🗺&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#-stats"><strong>STATS</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#-technical-skills"><strong>TECHNICAL SKILLS</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#repositories"><strong>REPOSITORIES</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;🗺</p>
 
 ---
 
