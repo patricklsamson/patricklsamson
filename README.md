@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 Note: My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository
 
+- [👀 Check My Works](#-check-my-works)
+- [👫 Check My Collaborations](#-check-my-collaborations)
+- [📈 Stats](#-stats)
+- [⚙ Technical Skills](#-technical-skills)
+
 ---
 
 ## 👀 Check My Works
@@ -46,6 +51,8 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 |                   [![journal-2 pair repository](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=journal-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/paopapaopao/journal-2)                    |                                                                                                                                                                                                                                                                                                                 |
 
 ---
+
+## 📈 Stats
 
 ![Github stats of Patrick Samson](https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true)
 ![Most used languages of Patrick Samson](https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact)
