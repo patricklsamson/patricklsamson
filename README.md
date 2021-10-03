@@ -18,6 +18,8 @@ Here are some ideas to get you started:
   <br />
 </div>
 
+---
+
 # Hi, I'm Patrick! 👋
 
 - 🌱 I’m currently learning Ruby on Rails at Avion School <!-- I’m open to learn anything about programming -->
@@ -42,6 +44,8 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
   <br />
 </div>
 
+---
+
 ## 👀 Check My Works
 
 | [![patricklsamson.github.io repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=patricklsamson.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/patricklsamson.github.io) [GitHub Page](https://patricklsamson.github.io/) | [![batch8-activities repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=batch8-activities&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/batch8-activities) [GitHub Page](https://patricklsamson.github.io/batch8-activities/) |
@@ -58,6 +62,8 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
   <br />
 </div>
 
+---
+
 ## 👫 Check My Collaborations
 
 | [![rails-final-project pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=rails-final-project&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/rails-final-project) Heroku App | [![stock market app pair repository](https://github-readme-stats.vercel.app/api/pin?username=bonaxl015&repo=stock-market-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/bonaxl015/stock-market-app) [Heroku App](https://bon-patrick-stock-market.herokuapp.com/) |
@@ -73,6 +79,8 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
   <br />
 </div>
 
+---
+
 ## 📈 Stats
 
 ![Github stats of Patrick Samson](https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true)
@@ -86,6 +94,8 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
   <br />
   <br />
 </div>
+
+---
 
 ## ⚙ Technical Skills
 
