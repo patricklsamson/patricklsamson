@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img id="home" src="https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/inverted-wave.png" alt="Gray inverted wave" />
 
-# Hi, I'm Patrick! 👋
+<h1 align="center">Hi, I'm Patrick! 👋</h1>
 
 - 🌱 I’m currently learning Ruby on Rails at Avion School <!-- I’m open to learn anything about programming -->
 - 💬 Ask me about what I know in front end
