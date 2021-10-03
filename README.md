@@ -37,7 +37,7 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 ## 🗺 Navigate Around!
 
-<< { === | [👀 Check My Works](#works) | [👫 Check My Collaborations](#collabs) | [📈 Stats](#stats) | [⚙ Technical Skills](#skills) | === } >>
+| << [👀 Check My Works](#works) >> | << [👫 Check My Collaborations](#collabs) >> | << [📈 Stats](#stats) >> | << [⚙ Technical Skills](#skills) >> |
 
 <div id="works">
   <br />
