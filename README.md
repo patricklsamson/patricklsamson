@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: Started learning about HTML out of boredom during childhood. Marquees are fun!
 
-**Check out my [_portfolio site_](https://patricklsamson.github.io/) too!**
+<p align="center"><strong>Check out my <em><a href="https://patricklsamson.github.io/">portfolio site</a></em> too!</strong></p>
 
 ---
 
