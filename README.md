@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Patrick! 👋
 
-🗺 [ [Home](#hi-im-patrick-) ] | [ [Projects](#-projects) ] | [ [Stats](#-stats) ] | [ [Technical Skills](#-technical-skills) ] 🗺
+🗺 [ [**HOME**](#hi-im-patrick-) ] | [ [**PROJECTS**](#-projects) ] | [ [**STATS**](#-stats) ] | [ [**TECHNICAL SKILLS**](#-technical-skills) ] 🗺
 
 - 🌱 I’m currently learning Ruby on Rails at Avion School <!-- I’m open to learn anything about programming -->
 - 💬 Ask me about what I know in front end
