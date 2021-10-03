@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-<hr id="home" />
-<br />
+<svg id="home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6c757d" fill-opacity="1" d="M0,192L60,208C120,224,240,256,360,250.7C480,245,600,203,720,208C840,213,960,267,1080,282.7C1200,299,1320,277,1380,266.7L1440,256L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
 
 # Hi, I'm Patrick! 👋
 
@@ -35,9 +33,7 @@ Here are some ideas to get you started:
 
 **Note:** My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and [slncdworks.github.io repository](https://github.com/slncdworks/slncdworks.github.io)
 
-<br />
-<hr id="projects" />
-<br />
+<svg id="projects" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6c757d" fill-opacity="1" d="M0,192L60,208C120,224,240,256,360,250.7C480,245,600,203,720,208C840,213,960,267,1080,282.7C1200,299,1320,277,1380,266.7L1440,256L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
 
 ## 👀 Projects
 
@@ -50,9 +46,7 @@ Here are some ideas to get you started:
 
 ^^^ | [**BACK TO HOME**](#home) | ^^^
 
-<br />
-<hr id="stats" />
-<br />
+<svg id="stats" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6c757d" fill-opacity="1" d="M0,192L60,208C120,224,240,256,360,250.7C480,245,600,203,720,208C840,213,960,267,1080,282.7C1200,299,1320,277,1380,266.7L1440,256L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
 
 ## 📈 Stats
 
@@ -61,9 +55,7 @@ Here are some ideas to get you started:
 
 ^^^ | [**BACK TO HOME**](#home) | ^^^
 
-<br />
-<hr id="technical-skills" />
-<br />
+<svg id="technical-skills" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#6c757d" fill-opacity="1" d="M0,192L60,208C120,224,240,256,360,250.7C480,245,600,203,720,208C840,213,960,267,1080,282.7C1200,299,1320,277,1380,266.7L1440,256L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
 
 ## ⚙ Technical Skills
 
