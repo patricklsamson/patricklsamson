@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <div id="home">
   <br />
+  <br />
 </div>
 
 # Hi, I'm Patrick! 👋
@@ -41,6 +42,7 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 <div id="works">
   <br />
+  <br />
 </div>
 
 ## 👀 Check My Works
@@ -56,6 +58,7 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 <div id="collabs">
   <br />
+  <br />
 </div>
 
 ## 👫 Check My Collaborations
@@ -70,6 +73,7 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 
 <div id="stats">
   <br />
+  <br />
 </div>
 
 ## 📈 Stats
@@ -82,6 +86,7 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 ---
 
 <div id="skills">
+  <br />
   <br />
 </div>
 
