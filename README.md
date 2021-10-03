@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+<div id="home">
+  <br />
+</div>
+
 # Hi, I'm Patrick! 👋
 
 - 🌱 I’m currently learning Ruby on Rails at Avion School <!-- I’m open to learn anything about programming -->
@@ -28,12 +32,16 @@ Here are some ideas to get you started:
 
 Note: My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository
 
-- [👀 Check My Works](#-check-my-works)
-- [👫 Check My Collaborations](#-check-my-collaborations)
-- [📈 Stats](#-stats)
-- [⚙ Technical Skills](#-technical-skills)
+- [👀 Check My Works](#works)
+- [👫 Check My Collaborations](#collabs)
+- [📈 Stats](#stats)
+- [⚙ Technical Skills](#skills)
 
 ---
+
+<div id="works">
+  <br />
+</div>
 
 ## 👀 Check My Works
 
@@ -42,9 +50,13 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 |                     [![journal repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=journal&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/journal) [Heroku App](https://patricklsamson-journal.herokuapp.com/)                     |                         [![blog repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=blog&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/blog) [Heroku App](https://patricklsamson-blog.herokuapp.com/)                          |
 |             [![slncdworks.github.io repository with description](https://github-readme-stats.vercel.app/api/pin?username=slncdworks&repo=slncdworks.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/slncdworks/slncdworks.github.io) [GitHub Page](https://slncdworks.github.io/)             |                                                                                                                                                                                                                                                                                                                                               |
 
-[Back to Home](#hi-im-patrick-)
+[Back to Home](#home)
 
 ---
+
+<div id="collabs">
+  <br />
+</div>
 
 ## 👫 Check My Collaborations
 
@@ -52,18 +64,26 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                   [![journal-2 pair repository](https://github-readme-stats.vercel.app/api/pin?username=paopapaopao&repo=journal-2&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/paopapaopao/journal-2)                    |                                                                                                                                                                                                                                                                                                                 |
 
-[Back to Home](#hi-im-patrick-)
+[Back to Home](#home)
 
 ---
+
+<div id="stats">
+  <br />
+</div>
 
 ## 📈 Stats
 
 ![Github stats of Patrick Samson](https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true)
 ![Most used languages of Patrick Samson](https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact)
 
-[Back to Home](#hi-im-patrick-)
+[Back to Home](#home)
 
 ---
+
+<div id="skills">
+  <br />
+</div>
 
 ## ⚙ Technical Skills
 
@@ -83,4 +103,4 @@ Note: My Secondary GitHub Account above owns contributions in batch8-activities 
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Bootstrap logo with text](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Jquery logo with text](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![XAMPP logo with text](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white) ![Git logo with text](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Ruby on rails logo with text](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) | ![NPM logo with text](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Yarn logo with text](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![Rubygems logo with text](https://img.shields.io/badge/RubyGems-E9573F?style=for-the-badge&logo=rubygems&logoColor=white) |
 
-[Back to Home](#hi-im-patrick-)
+[Back to Home](#home)
