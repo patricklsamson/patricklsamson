@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">🗺&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#-stats"><strong>STATS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#-technical-skills"><strong>TECHNICAL SKILLS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#repositories"><strong>REPOSITORIES</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;🗺</p>
+<p align="center">🗺&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#-stats"><strong>STATS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#-technical-skills"><strong>TECHNICAL SKILLS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#projects"><strong>PROJECTS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;🗺</p>
 
 ---
 
@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 
 ![Gray bottom wave](https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/bottom-wave.png)
 
-<div id="repositories"></div>
+<div id="projects"></div>
