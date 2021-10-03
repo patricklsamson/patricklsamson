@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p>📫 How to reach me:</p>
   <p>patricklsamson@yahoo.com.ph / patricklsamsonl@gmail.com</p>
+
   <p>
     <a href="https://www.linkedin.com/in/patricklsamson/"><img src="https://img.shields.io/badge/*-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin logo" /></a>
     <a href="https://github.com/slncdworks"><img src="https://img.shields.io/badge/*-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" /></a>
@@ -49,7 +50,7 @@ Here are some ideas to get you started:
 
 ![Gray inverted wave](https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/inverted-wave-2.png)
 
-## 📈 Stats
+<h2 align="center">📈 Stats</h2>
 
 ![Github stats of Patrick Samson](https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true)
 ![Most used languages of Patrick Samson](https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact)
@@ -58,7 +59,7 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚙ Technical Skills
+<h2 align="center">⚙ Technical Skills</h2>
 
 |                                                                                                                                                                         ✒ Languages                                                                                                                                                                         |                                                                                                                                                                                                                           📜 Scripting Languages                                                                                                                                                                                                                           |                                                           📚 Database                                                            |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
