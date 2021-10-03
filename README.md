@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 Note: My Secondary GitHub Account above owns contributions in batch8-activities repository from Mar 25 - Apr 24 2021 and slncdworks.github.io repository
 
+---
+
 << { === | [👀 Check My Works](#works) | [👫 Check My Collaborations](#collabs) | [📈 Stats](#stats) | [⚙ Technical Skills](#skills) | === } >>
 
 <div id="works">
