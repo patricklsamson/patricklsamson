@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>👀 Wanna see some more?</summary><br />
+  <summary>👀 Wanna see some more?</summary>
+
+---
 
 ![Gray inverted wave](https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/inverted-wave-2.png)
 
