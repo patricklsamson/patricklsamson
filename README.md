@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=cambriabold&width=220&color=448888&size=20&lines=📫+How+to+reach+me:" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&center=true&vCenter=true&color=448888&size=20&lines=📫+How+to+reach+me:" alt="Typing SVG" /></a>
   <p>patricklsamson@yahoo.com.ph / patricklsamsonl@gmail.com</p>
 
   <p>
