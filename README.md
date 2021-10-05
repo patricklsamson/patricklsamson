@@ -44,18 +44,18 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">🔎&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#-stats"><strong>STATS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#-technical-skills"><strong>TECHNICAL SKILLS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#projects"><strong>PROJECTS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;🔍</p>
+<p align="center">🔎&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#stats"><strong>STATS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#technical-skills"><strong>TECHNICAL SKILLS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#projects"><strong>PROJECTS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;🔍</p>
 
 ---
 
-![Gray inverted wave](https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/inverted-wave-2.png)
+<img id="stats" src="https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/inverted-wave-2.png" alt="Gray inverted wave" />
 
 <h2 align="center">📈 Stats</h2>
 
 ![Github stats of Patrick Samson](https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true)
 ![Most used languages of Patrick Samson](https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact)
 
-<p align="center"><strong><< { ^^^ | <a href="#home">BACK TO HOME</a> | ^^^ } >></strong></p>
+<p id="technical-skills" align="center"><strong><< { ^^^ | <a href="#home">BACK TO HOME</a> | ^^^ } >></strong></p>
 
 ---
 
