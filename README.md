@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <p>📫 How to reach me:</p>
+  <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=cambriabold&width=220&color=3c7777&size=20&lines=📫+How+to+reach+me:" alt="Typing SVG" /></a></p>
   <p>patricklsamson@yahoo.com.ph / patricklsamsonl@gmail.com</p>
 
   <p>
