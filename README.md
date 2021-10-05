@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Patrick! 👋</h1>
 
-- 🌱 I’m currently learning Ruby on Rails at Avion School <!-- I’m open to learn anything about programming -->
+- 🌱 I’m open to learn anything about web development
 - 💬 Ask me about what I know in front end
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: Started learning about HTML out of boredom during childhood. Marquees are fun!
