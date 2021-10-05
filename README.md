@@ -86,6 +86,8 @@ Here are some ideas to get you started:
 | [![patricklsamson.github.io repository with description](https://github-readme-stats.vercel.app/api/pin?username=patricklsamson&repo=patricklsamson.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/patricklsamson/patricklsamson.github.io) <br /> Repository of my portfolio, wanna check out how I made it? 😎 | [![slncdworks.github.io repository with description](https://github-readme-stats.vercel.app/api/pin?username=slncdworks&repo=slncdworks.github.io&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/slncdworks/slncdworks.github.io) <br /> [GitHub Page](https://slncdworks.github.io/) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
+<p align="center"><strong><< { ^^^ | <a href="#home">BACK TO HOME</a> | ^^^ } >></strong></p>
+
 </details>
 
 ![Gray bottom wave](https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/bottom-wave.png)
