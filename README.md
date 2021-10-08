@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Patrick! 👋</h1>
 
-- 🎓 Graduate of BS AeroE but is now exploring the world of Software Eng'g as a graduate from Avion School 👨‍💻
+- 🎓 BS Aero Eng'g graduate but is now in the world of Software Eng'g as a graduate from Avion School 👨‍💻
 - 🌱 I’m open to learn anything about Web Development
 - 💬 Ask me about what I know in front end
 - 😄 Pronouns: he / him / his
