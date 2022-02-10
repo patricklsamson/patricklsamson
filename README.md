@@ -54,8 +54,13 @@ Here are some ideas to get you started:
 
 <h2 align="center">📈 Stats</h2>
 
-![Github stats of Patrick Samson](https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true)
-![Most used languages of Patrick Samson](https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patricklsamson&show_icons=true&line_height=27&count_private=true&theme=dark&card_width=300&include_all_commits=true" alt="Github stats of Patrick Samson" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricklsamson&theme=dark&langs_count=10&layout=compact" alt="Most used languages of Patrick Samson" />
+</p>
 
 <p id="technical-skills" align="center"><strong><< { ^^^ | <a href="#nav">BACK TO NAV</a> | ^^^ } >></strong></p>
 
