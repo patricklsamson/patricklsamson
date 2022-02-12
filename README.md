@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<img src="https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/inverted-wave.png" alt="Gray inverted wave" />
+<img src="https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/img/inverted-wave.png" alt="Gray inverted wave" />
 
 <h1 align="center">Hi, I'm Patrick! 👋</h1>
 
@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">🔎&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#stats"><strong>STATS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#technical-skills"><strong>TECHNICAL SKILLS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#other-projects"><strong>OTHER PROJECTS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;[ <a href="#latest-projects"><strong>LATEST PROJECTS</strong></a> ]&nbsp;&nbsp;|&nbsp;&nbsp;🔍</p>
+<p align="center">🔎&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#stats"><strong>STATS</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#technical-skills"><strong>TECHNICAL SKILLS</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#other-projects"><strong>OTHER PROJECTS</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#latest-projects"><strong>LATEST PROJECTS</strong></a>&nbsp;&nbsp;|&nbsp;&nbsp;🔍</p>
 
 ---
 
-<img id="stats" src="https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/inverted-wave-2.png" alt="Gray inverted wave" />
+<img id="stats" src="https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/img/inverted-wave-2.png" alt="Gray inverted wave" />
 
 <h2 align="center">📈 Stats</h2>
 
@@ -97,6 +97,6 @@ Here are some ideas to get you started:
 
 </details>
 
-![Gray bottom wave](https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/bottom-wave.png)
+![Gray bottom wave](https://raw.githubusercontent.com/patricklsamson/patricklsamson/main/assets/img/bottom-wave.png)
 
 <div id="latest-projects"></div>
