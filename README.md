@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">🔎&nbsp;&nbsp;<a href="#stats"><strong>STATS</strong></a>&nbsp;&nbsp;🔍&nbsp;&nbsp;🔎&nbsp;&nbsp;<a href="#technical-skills"><strong>TECHNICAL SKILLS</strong></a>&nbsp;&nbsp;🔍&nbsp;&nbsp;🔎&nbsp;&nbsp;<a href="#other-projects"><strong>OTHER PROJECTS</strong></a>&nbsp;&nbsp;🔍&nbsp;&nbsp;🔎&nbsp;&nbsp;<a href="#latest-projects"><strong>LATEST PROJECTS</strong></a>&nbsp;&nbsp;🔍</p>
+<p align="center">🔎&nbsp;&nbsp;<a href="#stats"><strong>STATS</strong></a>&nbsp;&nbsp;🔍&nbsp;|&nbsp;🔎&nbsp;&nbsp;<a href="#technical-skills"><strong>TECHNICAL SKILLS</strong></a>&nbsp;&nbsp;🔍&nbsp;|&nbsp;🔎&nbsp;&nbsp;<a href="#other-projects"><strong>OTHER PROJECTS</strong></a>&nbsp;&nbsp;🔍&nbsp;|&nbsp;🔎&nbsp;&nbsp;<a href="#latest-projects"><strong>LATEST PROJECTS</strong></a>&nbsp;&nbsp;🔍</p>
 
 ---
 
