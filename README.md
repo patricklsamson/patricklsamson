@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🎓 BS AeEng. degree holder but is now in the world of Software
 Engineering as a graduate from Avion School 👨‍💻
 - 🌱 I’m open to learn anything about Web Development
-- 💬 Ask me about what I know in front end
+- 💬 Ask me about what I know in full-stack web development
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: Started learning about HTML out of boredom during childhood.
   Marquees are fun!
