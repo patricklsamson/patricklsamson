@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Patrick! 👋</h1>
 
 - 🔭 I’m currently working on QuadX Inc.
-- 🎓 BS Aero Engr. degree holder but is now in the world of Software
+- 🎓 BS AeEng. degree holder but is now in the world of Software
 Engineering as a graduate from Avion School 👨‍💻
 - 🌱 I’m open to learn anything about Web Development
 - 💬 Ask me about what I know in front end
