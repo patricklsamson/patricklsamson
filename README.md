@@ -60,12 +60,6 @@ Engineering as a graduate from Avion School 👨‍💻
         alt="Github logo"
       />
     </a>
-    <a href="https://stackoverflow.com/users/15469676/patrick-samson">
-      <img
-        src="https://img.shields.io/badge/*-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
-        alt="Stack overflow logo"
-      />
-    </a>
   </p>
 </div>
 
