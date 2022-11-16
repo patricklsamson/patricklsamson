@@ -18,9 +18,13 @@ Here are some ideas to get you started:
   alt="Gray inverted wave"
 />
 
-<h1 align="center">Hi, I'm Patrick! 👋</h1>
+<h1 align="center">
+  Hi, I'm Patrick! 👋
+  <br />
+  Software Engineer | BS AeEng. Degree Holder
+</h1>
 
-- 🔭 I’m currently working on QuadX Inc.
+- 🔭 I’m currently working on Caspio, Inc.
 - 🎓 BS AeEng. degree holder but is now in the world of Software
 Engineering as a graduate from Avion School 👨‍💻
 - 🌱 I’m open to learn anything about full-stack web development
