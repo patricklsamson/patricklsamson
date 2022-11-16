@@ -18,11 +18,8 @@ Here are some ideas to get you started:
   alt="Gray inverted wave"
 />
 
-<h1 align="center">
-  Hi, I'm Patrick! 👋
-  <br />
-  Software Engineer | BS AeEng. Degree Holder
-</h1>
+<h1 align="center">Hi, I'm Patrick! 👋</h1>
+<p align="center">Software Engineer | BS AeEng. Degree Holder</p>
 
 - 🔭 I’m currently working on Caspio, Inc.
 - 🎓 BS AeEng. degree holder but is now in the world of Software
