@@ -32,7 +32,7 @@ Engineering as a graduate from Avion School 👨‍💻
 
 <h3 align="center">
   Check out my
-  <em><a href="https://patricklsamson.github.io/">portfolio site</a></em>
+  <em><a href="https://patricklsamson.vercel.app/">portfolio</a></em>
   too!
 </h3>
 
