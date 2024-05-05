@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <p align="center">Software Engineer | BS AeEng. Degree Holder</p>
 
 - 🔭 I’m currently working at Sarisuki Stores, Inc.
+<!-- - 🔭 I’m currently unemployed -->
 - 🎓 BS AeEng. degree holder but is now in the world of Software
 Engineering as a graduate from Avion School 👨‍💻
 - 🌱 I’m open to learn anything about full-stack web development
