@@ -1,3 +1,6 @@
+
+<!-- markdownlint-disable MD033 MD041 -->
+
 <!-- ### Hi there 👋
 
 **patricklsamson/patricklsamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
