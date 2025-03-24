@@ -1,4 +1,3 @@
-
 <!-- markdownlint-disable MD033 MD041 -->
 
 <!-- ### Hi there 👋
@@ -24,15 +23,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Patrick! 👋</h1>
 <p align="center">Software Engineer | BS AeEng. Degree Holder</p>
 
-- 🔭 I’m currently working at Sarisuki Stores, Inc.
-<!-- - 🔭 I’m currently unemployed -->
-- 🎓 BS AeEng. degree holder but is now in the world of Software
-Engineering as a graduate from Avion School 👨‍💻
+<!-- - 🔭 I’m currently working at Sarisuki Stores, Inc. -->
+- 🔭 I’m currently working freelance
+- 🎓 BS AeEng. degree holder and Avion School graduate, exploring the world of
+Software Engineering 👨‍💻
 - 🌱 I’m open to learn anything about full-stack web development
 - 💬 Ask me about what I know in full-stack web development
 - 😄 Pronouns: he / him / his
 - ⚡ Fun fact: Started learning about HTML out of boredom during childhood.
-  Marquees are fun!
+Marquees are fun!
 
 <h3 align="center">
   Check out my
@@ -78,14 +77,17 @@ Engineering as a graduate from Avion School 👨‍💻
   <p align="center">
     🔎&nbsp;&nbsp;
     <a href="#stats"><strong>STATS</strong></a>
-    &nbsp;&nbsp;🔍&nbsp;|
-    &nbsp;🔎&nbsp;&nbsp;
+    &nbsp;&nbsp;🔍
+    &nbsp;|&nbsp;
+    🔎&nbsp;&nbsp;
     <a href="#technical-skills"><strong>TECHNICAL SKILLS</strong></a>
-    &nbsp;&nbsp;🔍&nbsp;|
-    &nbsp;🔎&nbsp;&nbsp;
+    &nbsp;&nbsp;🔍
+    &nbsp;|&nbsp;
+    🔎&nbsp;&nbsp;
     <a href="#other-projects"><strong>OTHER PROJECTS</strong></a>
-    &nbsp;&nbsp;🔍&nbsp;|
-    &nbsp;🔎&nbsp;&nbsp;
+    &nbsp;&nbsp;🔍
+    &nbsp;|&nbsp;
+    🔎&nbsp;&nbsp;
     <a href="#latest-projects"><strong>LATEST PROJECTS</strong></a>
     &nbsp;&nbsp;🔍
   </p>
